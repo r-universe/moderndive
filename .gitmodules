@@ -5,3 +5,6 @@
 [submodule "moderndive"]
 	path = moderndive
 	url = https://github.com/moderndive/moderndive
+[submodule "nycflights23"]
+	path = nycflights23
+	url = https://github.com/moderndive/nycflights23
