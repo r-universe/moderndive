@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "exoplanetdata"]
+	path = exoplanetdata
+	url = https://github.com/moderndive/exoplanetdata
 [submodule "moderndive"]
 	path = moderndive
 	url = https://github.com/moderndive/moderndive
@@ -11,3 +14,6 @@
 [submodule "steves"]
 	path = steves
 	url = https://github.com/moderndive/steves
+[submodule "volcanoes"]
+	path = volcanoes
+	url = https://github.com/moderndive/volcanoes
