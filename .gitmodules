@@ -11,6 +11,9 @@
 [submodule "nycflights23"]
 	path = nycflights23
 	url = https://github.com/moderndive/nycflights23
+[submodule "olympicAthletes"]
+	path = olympicAthletes
+	url = https://github.com/moderndive/olympicathletes
 [submodule "steves"]
 	path = steves
 	url = https://github.com/moderndive/steves
